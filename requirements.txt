@@ -1,0 +1,8 @@
+PyTelegramBotAPI==4.15.5
+requests==2.31.0
+flask==3.0.0
+gunicorn==21.2.0
+lxml==6.0.1
+phonenumbers==8.13.26
+pypdf==4.0.1
+beautifulsoup4==4.12.2
