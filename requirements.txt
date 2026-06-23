@@ -1,6 +1,0 @@
-Flask==2.3.3
-pyTelegramBotAPI==4.15.0
-requests==2.31.0
-phonenumbers==8.13.18
-beautifulsoup4==4.12.2
-pypdf==3.17.1
