@@ -1,8 +1,0 @@
-Flask==3.0.0
-pyTelegramBotAPI==4.23.0
-requests==2.31.0
-phonenumbers==8.13.30
-beautifulsoup4==4.12.3
-pypdf==4.2.0
-google-generativeai==0.7.2
-pycountry==24.6.1
