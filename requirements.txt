@@ -1,0 +1,13 @@
+PyTelegramBotAPI==4.15.0
+requests==2.31.0
+phonenumbers==8.13.26
+flask==3.0.0
+pypdf==4.0.1
+beautifulsoup4==4.12.2
+lxml==4.9.3
+edge-tts==6.1.9
+yt-dlp==2024.11.18
+gTTS==2.5.1
+python-dotenv==1.0.0
+urllib3==2.1.0
+Pillow==10.1.0
