@@ -1,0 +1,11 @@
+Flask==2.3.3
+pyTelegramBotAPI==4.16.0
+requests==2.31.0
+phonenumbers==8.13.26
+pypdf==4.0.1
+beautifulsoup4==4.12.2
+builtwith==1.4.0
+Pillow==10.1.0
+python-dotenv==1.0.0
+yt-dlp==2023.11.16
+urllib3==2.0.7
