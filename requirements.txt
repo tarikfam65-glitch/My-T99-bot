@@ -1,0 +1,13 @@
+Flask
+pyTelegramBotAPI
+requests
+phonenumbers
+pypdf
+beautifulsoup4
+builtwith
+Pillow
+python-dotenv
+yt-dlp
+urllib3
+setuptools
+qrcode
