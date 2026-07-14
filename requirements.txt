@@ -1,0 +1,17 @@
+Flask
+pyTelegramBotAPI
+requests
+python-dotenv
+beautifulsoup4
+feedparser
+pypdf
+Pillow
+yt-dlp
+googletrans==4.0.0-rc1
+gTTS
+wikipedia
+phonenumbers
+dnspython
+python-whois
+paramiko
+scapy
